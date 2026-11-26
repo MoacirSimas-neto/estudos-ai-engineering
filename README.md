@@ -31,12 +31,12 @@ Os cursos seguidos são os **cursos oficiais** de cada empresa. Nenhum material 
 
 | Plataforma | Cursos na trilha | Concluídos |
 |---|---:|---:|
-| Anthropic | 8 | 1 |
+| Anthropic | 8 | 2 |
 | OpenAI | 7 | 0 |
 | Hugging Face | 2 | 0 |
 | Google | 1 | 0 |
 | Microsoft | 1 | 0 |
-| **Total** | **19** | **1** |
+| **Total** | **19** | **2** |
 
 O detalhamento curso a curso está em [PROGRESS.md](PROGRESS.md).
 
@@ -71,6 +71,7 @@ A pasta [certificates](certificates) é reservada para certificados efetivamente
 | Curso | Instituição | Conclusão | Registro |
 |---|---|---|---|
 | Claude Code 101 | Anthropic | 25/11/2026 | Cadastrado no LinkedIn |
+| Claude Code in Action | Anthropic | 25/11/2026 | Cadastrado no LinkedIn |
 
 Por privacidade, o arquivo do certificado não é publicado aqui. A credencial pode ser conferida no meu LinkedIn.
 
