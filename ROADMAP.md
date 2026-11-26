@@ -9,7 +9,7 @@ Trilha de estudos baseada nos **cursos oficiais** de cada empresa. Este arquivo 
 Fonte oficial: [Cursos da Anthropic](https://anthropic.skilljar.com/)
 
 - [x] Claude Code 101 (concluído em 25/11/2026)
-- [ ] Claude Code in Action
+- [x] Claude Code in Action (concluído em 25/11/2026)
 - [ ] Introduction to Agent Skills
 - [ ] Introduction to Subagents
 - [ ] Introduction to MCP
