@@ -31,12 +31,12 @@ Os cursos seguidos são os **cursos oficiais** de cada empresa. Nenhum material 
 
 | Plataforma | Cursos na trilha | Concluídos |
 |---|---:|---:|
-| Anthropic | 8 | 2 |
+| Anthropic | 8 | 3 |
 | OpenAI | 7 | 0 |
 | Hugging Face | 2 | 0 |
 | Google | 1 | 0 |
 | Microsoft | 1 | 0 |
-| **Total** | **19** | **2** |
+| **Total** | **19** | **3** |
 
 O detalhamento curso a curso está em [PROGRESS.md](PROGRESS.md).
 
@@ -74,6 +74,8 @@ A pasta [certificates](certificates) é reservada para certificados efetivamente
 | Claude Code in Action | Anthropic | 25/11/2026 | Cadastrado no LinkedIn |
 
 Por privacidade, o arquivo do certificado não é publicado aqui. A credencial pode ser conferida no meu LinkedIn.
+
+**Total de certificados: 2.** O curso Introduction to Agent Skills (Anthropic), concluído em 26/11/2026, não oferece badge. Por isso, ele não aparece na tabela acima e nenhuma credencial foi adicionada ao LinkedIn.
 
 ## Estrutura do repositório
 
