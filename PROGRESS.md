@@ -4,12 +4,12 @@
 
 Este arquivo registra apenas o que foi efetivamente concluído. O plano completo está em [ROADMAP.md](ROADMAP.md).
 
-**Resumo:** 1 de 19 cursos concluídos.
+**Resumo:** 2 de 19 cursos concluídos.
 
 | Plataforma | Curso | Status | Conclusão | Certificado |
 |---|---|---|---|---|
 | Anthropic | Claude Code 101 | Concluído | 25/11/2026 | Recebido e cadastrado no LinkedIn |
-| Anthropic | Claude Code in Action | Pendente | - | - |
+| Anthropic | Claude Code in Action | Concluído | 25/11/2026 | Recebido e cadastrado no LinkedIn |
 | Anthropic | Introduction to Agent Skills | Pendente | - | - |
 | Anthropic | Introduction to Subagents | Pendente | - | - |
 | Anthropic | Introduction to MCP | Pendente | - | - |
@@ -35,3 +35,4 @@ Nenhum laboratório publicado até o momento. Os experimentos próprios serão l
 ## Histórico
 
 - 25/11/2026: Claude Code 101 (Anthropic) concluído.
+- 25/11/2026: Claude Code in Action (Anthropic) concluído.
