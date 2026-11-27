@@ -11,7 +11,7 @@ Fonte oficial: [Cursos da Anthropic](https://anthropic.skilljar.com/)
 - [x] Claude Code 101 (concluído em 25/11/2026)
 - [x] Claude Code in Action (concluído em 25/11/2026)
 - [x] Introduction to Agent Skills (concluído em 26/11/2026, sem badge)
-- [ ] Introduction to Subagents
+- [x] Introduction to Subagents (concluído em 26/11/2026)
 - [ ] Introduction to MCP
 - [ ] Advanced MCP Topics
 - [ ] Claude Platform 101
