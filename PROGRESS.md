@@ -4,14 +4,14 @@
 
 Este arquivo registra apenas o que foi efetivamente concluído. O plano completo está em [ROADMAP.md](ROADMAP.md).
 
-**Resumo:** 3 de 19 cursos concluídos. Anthropic: 3 de 8. Certificados: 2.
+**Resumo:** 4 de 19 cursos concluídos (21,1%). Anthropic: 4 de 8 (50%). Carga horária estimada concluída: 4h15. Certificados: 2.
 
 | Plataforma | Curso | Status | Conclusão | Certificado |
 |---|---|---|---|---|
 | Anthropic | Claude Code 101 | Concluído | 25/11/2026 | Recebido e cadastrado no LinkedIn |
 | Anthropic | Claude Code in Action | Concluído | 25/11/2026 | Recebido e cadastrado no LinkedIn |
 | Anthropic | Introduction to Agent Skills | Concluído | 26/11/2026 | Sem badge (o curso não oferece) |
-| Anthropic | Introduction to Subagents | Pendente | - | - |
+| Anthropic | Introduction to Subagents | Concluído | 26/11/2026 | Sem credencial registrada |
 | Anthropic | Introduction to MCP | Pendente | - | - |
 | Anthropic | Advanced MCP Topics | Pendente | - | - |
 | Anthropic | Claude Platform 101 | Pendente | - | - |
@@ -37,3 +37,4 @@ Nenhum laboratório publicado até o momento. Os experimentos próprios serão l
 - 25/11/2026: Claude Code 101 (Anthropic) concluído.
 - 25/11/2026: Claude Code in Action (Anthropic) concluído.
 - 26/11/2026: Introduction to Agent Skills (Anthropic) concluído. O curso não oferece badge, então nenhuma credencial foi adicionada ao LinkedIn.
+- 26/11/2026: Introduction to Subagents (Anthropic) concluído. Nenhuma credencial nova registrada; o total de certificados permanece 2.
