@@ -31,12 +31,14 @@ Os cursos seguidos são os **cursos oficiais** de cada empresa. Nenhum material 
 
 | Plataforma | Cursos na trilha | Concluídos |
 |---|---:|---:|
-| Anthropic | 8 | 3 |
+| Anthropic | 8 | 4 |
 | OpenAI | 7 | 0 |
 | Hugging Face | 2 | 0 |
 | Google | 1 | 0 |
 | Microsoft | 1 | 0 |
-| **Total** | **19** | **3** |
+| **Total** | **19** | **4** |
+
+**Progresso geral: 4/19 cursos (21,1%).** Anthropic: 4/8 cursos (50%). Carga horária estimada concluída: 4h15.
 
 O detalhamento curso a curso está em [PROGRESS.md](PROGRESS.md).
 
@@ -75,7 +77,7 @@ A pasta [certificates](certificates) é reservada para certificados efetivamente
 
 Por privacidade, o arquivo do certificado não é publicado aqui. A credencial pode ser conferida no meu LinkedIn.
 
-**Total de certificados: 2.** O curso Introduction to Agent Skills (Anthropic), concluído em 26/11/2026, não oferece badge. Por isso, ele não aparece na tabela acima e nenhuma credencial foi adicionada ao LinkedIn.
+**Total de certificados: 2.** O curso Introduction to Agent Skills (Anthropic), concluído em 26/11/2026, não oferece badge. Por isso, ele não aparece na tabela acima e nenhuma credencial foi adicionada ao LinkedIn. O curso Introduction to Subagents (Anthropic), concluído em 26/11/2026, não tem credencial registrada e também não aparece na tabela.
 
 ## Estrutura do repositório
 
